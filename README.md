@@ -29,6 +29,14 @@ Halo, saya **Kina`SaQina** — seorang decender digital yang telah menapaki bany
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Brave](https://img.shields.io/badge/Brave-FF5000?style=for-the-badge&logo=brave&logoColor=white)
+![Claude.ai](https://img.shields.io/badge/Claude.ai-3A3A3A?style=for-the-badge&logo=ai&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0078D7?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 
