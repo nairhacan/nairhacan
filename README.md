@@ -2,24 +2,24 @@
 
 Halo, saya **Kina`SaQina** — seorang decender digital yang telah menapaki banyak jalan pembelajaran, baik dari dunia akademik maupun dunia kreator. Saya tidak akan memberi tahu banyak tentang identitas asli saya, cukup tahu bahwa saya seseorang yang **berproses dalam diam dan membangun dalam ketenangan**.
 
-> Umur: ****  
+> Umur: 15  
 > Status: Belajar seumur hidup
-> Lokasi: Djogja
+> Lokasi: Jogja
 
 
 
-# 🦅 Hi there, I'm Naihra
+# 🦅 Hi Semua Aku Nairha
 
 <div align="center">
-  <h3><i>"Crafting digital experiences with code and creativity."</i></h3>
+  <h3><i>"Aku hanya seorang manusia biasa yang ingin menjadi luar biasa"</i></h3>
   <br/>
   
   <!-- Typing SVG Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Cloud+Architecture+Expert" alt="Typing SVG" />
 </div>
 
+<br/>
 <div align="center">
-  
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=nairhacan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
@@ -36,9 +36,6 @@ Halo, saya **Kina`SaQina** — seorang decender digital yang telah menapaki bany
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nairhacan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true" alt="Naihra's Github Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairhacan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages" height="170" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nairhacan&theme=midnight-purple&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
@@ -91,7 +88,7 @@ const naihra = {
 
 <div align="center">
 
-### ⚡ Core Languages
+
 <img src="https://img.shields.io/badge/JavaScript-101010?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=101010" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-101010?style=flat&logo=typescript&logoColor=3178C6&labelColor=101010" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-101010?style=flat&logo=python&logoColor=3776AB&labelColor=101010" alt="Python" />
@@ -107,10 +104,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Dart-101010?style=flat&logo=dart&logoColor=0175C2&labelColor=101010" alt="Dart" />
 <img src="https://img.shields.io/badge/Scala-101010?style=flat&logo=scala&logoColor=DC322F&labelColor=101010" alt="Scala" />
 <img src="https://img.shields.io/badge/Solidity-101010?style=flat&logo=solidity&logoColor=363636&labelColor=101010" alt="Solidity" />
-
-<br/>
-
-### 🎨 Frontend & UI
 <img src="https://img.shields.io/badge/React-101010?style=flat&logo=react&logoColor=61DAFB&labelColor=101010" alt="React" />
 <img src="https://img.shields.io/badge/Vue.js-101010?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=101010" alt="Vue" />
 <img src="https://img.shields.io/badge/Angular-101010?style=flat&logo=angular&logoColor=DD0031&labelColor=101010" alt="Angular" />
@@ -123,7 +116,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Remix-101010?style=flat&logo=remix&logoColor=white&labelColor=101010" alt="Remix" />
 <img src="https://img.shields.io/badge/Qwik-101010?style=flat&logo=qwik&logoColor=18B6F6&labelColor=101010" alt="Qwik" />
 <img src="https://img.shields.io/badge/Alpine.js-101010?style=flat&logo=alpinedotjs&logoColor=8BC0D0&labelColor=101010" alt="Alpine.js" />
-<br/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-101010?style=flat&logo=tailwindcss&logoColor=38B2AC&labelColor=101010" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Bootstrap-101010?style=flat&logo=bootstrap&logoColor=7952B3&labelColor=101010" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Sass-101010?style=flat&logo=sass&logoColor=CC6699&labelColor=101010" alt="Sass" />
@@ -134,10 +126,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Ant_Design-101010?style=flat&logo=antdesign&logoColor=0170FE&labelColor=101010" alt="Ant Design" />
 <img src="https://img.shields.io/badge/shadcn/ui-101010?style=flat&logo=shadcnui&logoColor=white&labelColor=101010" alt="shadcn/ui" />
 <img src="https://img.shields.io/badge/DaisyUI-101010?style=flat&logo=daisyui&logoColor=5A0EF8&labelColor=101010" alt="DaisyUI" />
-
-<br/>
-
-### ⚙️ Backend & Infrastructure
 <img src="https://img.shields.io/badge/Node.js-101010?style=flat&logo=nodedotjs&logoColor=339933&labelColor=101010" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=express&logoColor=white&labelColor=101010" alt="Express" />
 <img src="https://img.shields.io/badge/Laravel-101010?style=flat&logo=laravel&logoColor=FF2D20&labelColor=101010" alt="Laravel" />
@@ -150,7 +138,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Flask-101010?style=flat&logo=flask&logoColor=white&labelColor=101010" alt="Flask" />
 <img src="https://img.shields.io/badge/Fastify-101010?style=flat&logo=fastify&logoColor=white&labelColor=101010" alt="Fastify" />
 <img src="https://img.shields.io/badge/Hono-101010?style=flat&logo=hono&logoColor=E36002&labelColor=101010" alt="Hono" />
-<br/>
 <img src="https://img.shields.io/badge/Docker-101010?style=flat&logo=docker&logoColor=2496ED&labelColor=101010" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-101010?style=flat&logo=kubernetes&logoColor=326CE5&labelColor=101010" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/Nginx-101010?style=flat&logo=nginx&logoColor=009639&labelColor=101010" alt="Nginx" />
@@ -159,10 +146,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/REST_API-101010?style=flat&logo=fastapi&logoColor=009688&labelColor=101010" alt="REST API" />
 <img src="https://img.shields.io/badge/gRPC-101010?style=flat&logo=grpc&logoColor=244c5a&labelColor=101010" alt="gRPC" />
 <img src="https://img.shields.io/badge/WebSocket-101010?style=flat&logo=websocket&logoColor=white&labelColor=101010" alt="WebSocket" />
-
-<br/>
-
-### ☁️ Cloud & DevOps
 <img src="https://img.shields.io/badge/AWS-101010?style=flat&logo=amazonwebservices&logoColor=FF9900&labelColor=101010" alt="AWS" />
 <img src="https://img.shields.io/badge/Google_Cloud-101010?style=flat&logo=googlecloud&logoColor=4285F4&labelColor=101010" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/Azure-101010?style=flat&logo=microsoftazure&logoColor=0078D4&labelColor=101010" alt="Azure" />
@@ -172,7 +155,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/DigitalOcean-101010?style=flat&logo=digitalocean&logoColor=0080FF&labelColor=101010" alt="DigitalOcean" />
 <img src="https://img.shields.io/badge/Cloudflare-101010?style=flat&logo=cloudflare&logoColor=F38020&labelColor=101010" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Railway-101010?style=flat&logo=railway&logoColor=0B0D0E&labelColor=101010" alt="Railway" />
-<br/>
 <img src="https://img.shields.io/badge/GitHub_Actions-101010?style=flat&logo=githubactions&logoColor=2088FF&labelColor=101010" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/GitLab_CI-101010?style=flat&logo=gitlab&logoColor=FC6D26&labelColor=101010" alt="GitLab CI" />
 <img src="https://img.shields.io/badge/Jenkins-101010?style=flat&logo=jenkins&logoColor=D24939&labelColor=101010" alt="Jenkins" />
@@ -181,10 +163,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Ansible-101010?style=flat&logo=ansible&logoColor=EE0000&labelColor=101010" alt="Ansible" />
 <img src="https://img.shields.io/badge/Prometheus-101010?style=flat&logo=prometheus&logoColor=E6522C&labelColor=101010" alt="Prometheus" />
 <img src="https://img.shields.io/badge/Grafana-101010?style=flat&logo=grafana&logoColor=F46800&labelColor=101010" alt="Grafana" />
-
-<br/>
-
-### 📱 Mobile & Desktop
 <img src="https://img.shields.io/badge/Flutter-101010?style=flat&logo=flutter&logoColor=02569B&labelColor=101010" alt="Flutter" />
 <img src="https://img.shields.io/badge/React_Native-101010?style=flat&logo=react&logoColor=61DAFB&labelColor=101010" alt="React Native" />
 <img src="https://img.shields.io/badge/Kotlin-101010?style=flat&logo=kotlin&logoColor=7F52FF&labelColor=101010" alt="Kotlin" />
@@ -195,10 +173,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Tauri-101010?style=flat&logo=tauri&logoColor=FFC131&labelColor=101010" alt="Tauri" />
 <img src="https://img.shields.io/badge/Qt-101010?style=flat&logo=qt&logoColor=41CD52&labelColor=101010" alt="Qt" />
 <img src="https://img.shields.io/badge/Expo-101010?style=flat&logo=expo&logoColor=white&labelColor=101010" alt="Expo" />
-
-<br/>
-
-### 💾 Databases & Storage
 <img src="https://img.shields.io/badge/MySQL-101010?style=flat&logo=mysql&logoColor=4479A1&labelColor=101010" alt="MySQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-101010?style=flat&logo=postgresql&logoColor=4169E1&labelColor=101010" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-101010?style=flat&logo=mongodb&logoColor=47A248&labelColor=101010" alt="MongoDB" />
@@ -211,10 +185,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/MariaDB-101010?style=flat&logo=mariadb&logoColor=003545&labelColor=101010" alt="MariaDB" />
 <img src="https://img.shields.io/badge/Cassandra-101010?style=flat&logo=apachecassandra&logoColor=1287B1&labelColor=101010" alt="Cassandra" />
 <img src="https://img.shields.io/badge/DynamoDB-101010?style=flat&logo=amazondynamodb&logoColor=4053D6&labelColor=101010" alt="DynamoDB" />
-
-<br/>
-
-### 🎮 Game Development
 <img src="https://img.shields.io/badge/Unity-101010?style=flat&logo=unity&logoColor=white&labelColor=101010" alt="Unity" />
 <img src="https://img.shields.io/badge/Unreal_Engine-101010?style=flat&logo=unrealengine&logoColor=white&labelColor=101010" alt="Unreal" />
 <img src="https://img.shields.io/badge/Godot-101010?style=flat&logo=godotengine&logoColor=478CBF&labelColor=101010" alt="Godot" />
@@ -223,10 +193,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Pygame-101010?style=flat&logo=python&logoColor=3776AB&labelColor=101010" alt="Pygame" />
 <img src="https://img.shields.io/badge/Three.js-101010?style=flat&logo=threedotjs&logoColor=white&labelColor=101010" alt="Three.js" />
 <img src="https://img.shields.io/badge/Babylon.js-101010?style=flat&logo=babylondotjs&logoColor=BB464B&labelColor=101010" alt="Babylon.js" />
-
-<br/>
-
-### 🧠 AI & Machine Learning
 <img src="https://img.shields.io/badge/TensorFlow-101010?style=flat&logo=tensorflow&logoColor=FF6F00&labelColor=101010" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/PyTorch-101010?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=101010" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Keras-101010?style=flat&logo=keras&logoColor=D00000&labelColor=101010" alt="Keras" />
@@ -238,10 +204,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Hugging_Face-101010?style=flat&logo=huggingface&logoColor=FFD21E&labelColor=101010" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/LangChain-101010?style=flat&logo=langchain&logoColor=1C3C3C&labelColor=101010" alt="LangChain" />
 <img src="https://img.shields.io/badge/OpenAI-101010?style=flat&logo=openai&logoColor=412991&labelColor=101010" alt="OpenAI" />
-
-<br/>
-
-### 🔧 Development Tools
 <img src="https://img.shields.io/badge/Git-101010?style=flat&logo=git&logoColor=F05032&labelColor=101010" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-101010?style=flat&logo=github&logoColor=white&labelColor=101010" alt="GitHub" />
 <img src="https://img.shields.io/badge/GitLab-101010?style=flat&logo=gitlab&logoColor=FC6D26&labelColor=101010" alt="GitLab" />
@@ -251,7 +213,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/Insomnia-101010?style=flat&logo=insomnia&logoColor=4000BF&labelColor=101010" alt="Insomnia" />
 <img src="https://img.shields.io/badge/VS_Code-101010?style=flat&logo=visualstudiocode&logoColor=007ACC&labelColor=101010" alt="VS Code" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-101010?style=flat&logo=intellijidea&logoColor=white&labelColor=101010" alt="IntelliJ IDEA" />
-<br/>
 <img src="https://img.shields.io/badge/Vite-101010?style=flat&logo=vite&logoColor=646CFF&labelColor=101010" alt="Vite" />
 <img src="https://img.shields.io/badge/Webpack-101010?style=flat&logo=webpack&logoColor=8DD6F9&labelColor=101010" alt="Webpack" />
 <img src="https://img.shields.io/badge/Rollup-101010?style=flat&logo=rollupdotjs&logoColor=EC4A3F&labelColor=101010" alt="Rollup" />
@@ -261,10 +222,6 @@ const naihra = {
 <img src="https://img.shields.io/badge/pnpm-101010?style=flat&logo=pnpm&logoColor=F69220&labelColor=101010" alt="pnpm" />
 <img src="https://img.shields.io/badge/ESLint-101010?style=flat&logo=eslint&logoColor=4B32C3&labelColor=101010" alt="ESLint" />
 <img src="https://img.shields.io/badge/Prettier-101010?style=flat&logo=prettier&logoColor=F7B93E&labelColor=101010" alt="Prettier" />
-
-<br/>
-
-### 🧪 Testing & Quality
 <img src="https://img.shields.io/badge/Jest-101010?style=flat&logo=jest&logoColor=C21325&labelColor=101010" alt="Jest" />
 <img src="https://img.shields.io/badge/Vitest-101010?style=flat&logo=vitest&logoColor=6E9F18&labelColor=101010" alt="Vitest" />
 <img src="https://img.shields.io/badge/Cypress-101010?style=flat&logo=cypress&logoColor=17202C&labelColor=101010" alt="Cypress" />
